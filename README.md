@@ -3,7 +3,7 @@
 
 Pada pertemuan-9 ini saya dari kelas TI.A.1 diberikan tugas oleh Dosen untuk  menginput data kedalam list.
 Berserta 
-[flowchart, ](flowerchat.pdf) dan contoh tugas yang di berikan pada pertemuan-9 <br>
+[flowchart, ](flowchart.pdf) dan contoh tugas yang di berikan pada pertemuan-9 <br>
 
 ![P-4](c1/1.png)
 
